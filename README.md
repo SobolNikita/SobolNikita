@@ -12,7 +12,9 @@
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 🔹 𝙅𝙪𝙣𝙞𝙤𝙧 𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙 𝘿𝙚𝙫 — improving my skills in React, TypeScript, software design, and more
+
 🎓 𝙐𝙣𝙞𝙫𝙚𝙧𝙨𝙞𝙩𝙮 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨 — building academic and practice-oriented projects
+
 🚀 𝙋𝙚𝙧𝙨𝙤𝙣𝙖𝙡 𝘿𝙚𝙫 — experimenting and exploring in web development
 
 
@@ -26,7 +28,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
 
 ![C++](https://img.shields.io/badge/-C%2B%2B-blue?style=flat&logo=c%2B%2B)
-![CMake](https://img.shields.io/badge/-CMake-blue?style=flat&logo=CMake&labelColor=aqua)
+![CMake](https://img.shields.io/badge/-CMake-blue?style=flat&logo=CMake)
 ![Qt](https://img.shields.io/badge/-Qt-aqua?style=flat&logo=Qt)
 ![STL](https://img.shields.io/badge/stl-STL-purple?style=flat)
 
