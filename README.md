@@ -2,7 +2,7 @@
 
 Backend Developer — Go / Golang · Minsk, Belarus
 
-I build backend services, REST and gRPC APIs, and event-driven systems with Go. Experience with microservices, PostgreSQL query optimization, Kafka messaging, and CI/CD.
+Backend developer focused on Go, with 2+ years of commercial software development experience. I build and maintain production microservices, REST and gRPC APIs, and event-driven systems. My work includes PostgreSQL query optimization, Kafka-based messaging, production troubleshooting, and CI/CD improvements.
 
 ## Technologies
 
@@ -12,9 +12,9 @@ I build backend services, REST and gRPC APIs, and event-driven systems with Go. 
 - Frontend: TypeScript, JavaScript, React, Next.js, Redux
 - Other: C++
 
-## Background
+## Education & Achievements
 
-Software Engineering student at BSUIR. Belarusian National Olympiad in Informatics (BelOI) winner.
+Software Engineering, BSUIR (2024–2028). Belarusian National Olympiad in Informatics (BelOI) winner.
 
 ## Contact
 
